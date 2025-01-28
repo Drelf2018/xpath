@@ -1,5 +1,3 @@
-github.com/Drelf2018/reflectMap v0.0.0-20240331094155-868fe4cd483f h1:WpP2S94+UIWEBMjW7jNFEoTNteB39RaawXYFKwVRzP4=
-github.com/Drelf2018/reflectMap v0.0.0-20240331094155-868fe4cd483f/go.mod h1:kc6r+njvnoXOz8xUsI3ktvVmqfS9A7cVusMX1b+v+58=
 github.com/antchfx/htmlquery v1.3.0 h1:5I5yNFOVI+egyia5F2s/5Do2nFWxJz41Tr3DyfKD25E=
 github.com/antchfx/htmlquery v1.3.0/go.mod h1:zKPDVTMhfOmcwxheXUsx4rKJy8KEY/PU6eXr/2SebQ8=
 github.com/antchfx/xpath v1.2.3/go.mod h1:i54GszH55fYfBmoZXapTHN8T8tkcHfRgLyVwwqzXNcs=

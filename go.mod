@@ -3,7 +3,6 @@ module github.com/Drelf2018/xpath
 go 1.18
 
 require (
-	github.com/Drelf2018/reflectMap v0.0.0-20240331094155-868fe4cd483f
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/antchfx/xpath v1.2.5
 	golang.org/x/net v0.22.0
